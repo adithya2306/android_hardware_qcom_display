@@ -30,6 +30,7 @@
 #include <utils/locker.h>
 #include <bitset>
 #include <set>
+#include <string>
 #include <vector>
 #include <string>
 
